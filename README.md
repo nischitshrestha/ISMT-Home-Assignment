@@ -27,7 +27,7 @@ ytho
 
 8. Add the modified file to the staging area using the following command:
     ```sh
-   git add /Users/celeritas/Desktop/richtext_converted_to_markdown.md
+   git add name.py
 
 9. Push the changes to the forked repository on GitHub using the following command:
 
