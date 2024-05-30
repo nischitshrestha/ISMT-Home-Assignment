@@ -1,8 +1,8 @@
 # ISMT-Home-Assignment
 This repo represents the assignment done by ISMT College IT Students.
 
-To submit the Python aassignment by forking this repository and pushing the individual student's code(name.py) into a branch created with their own name, follow these steps:
-ytho
+To submit the Python aassignment by forking this repository and pushing the individual student's code(name.py or name.ipynb) into a branch created with their own name, follow these steps:
+
 1. Fork this repository by clicking on the "Fork" button at the top right corner of the repository page. This will create a copy of the repository under your GitHub account.
 
 2. Clone the forked repository to your local machine using the following command in your terminal or command prompt:
