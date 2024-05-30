@@ -25,9 +25,11 @@ ytho
 
 7. Save the changes to the file.
 
-8. Add the modified file to the staging area using the following command:
+8. Add the modified file to the staging area using the following command and commit it:
     ```sh
    git add name.py
+   git commit -m" your commit msg" 
+
 
 9. Push the changes to the forked repository on GitHub using the following command:
 
